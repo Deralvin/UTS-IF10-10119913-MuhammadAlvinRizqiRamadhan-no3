@@ -7,8 +7,12 @@ package uts.if10k.pkg10119913.muhammadalvinrizqiramadhan.no3;
 
 /**
  *
- * @author Lenovo
+ * @author 
+
+ * 
  */
-public interface HeavyMetal extends Punk {
-    public void genreHeavyMetal(String artisName);
+
+public interface HeavyMetal extends Punk{
+    
+    public void genreHeavyMetal(String artistName);
 }

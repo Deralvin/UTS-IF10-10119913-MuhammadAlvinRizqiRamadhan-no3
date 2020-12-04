@@ -6,18 +6,19 @@
 package uts.if10k.pkg10119913.muhammadalvinrizqiramadhan.no3;
 
 /**
- *
-
  * 
  */
 
-public class MusicGenre{
+public class Country extends MusicGenre{
     
     private String artistName;
     
+    @Override
     public String getArtistName(){
         return artistName;
     }
+    
+    @Override
     public void setArtistName(String artistName){
         this.artistName = artistName;
     }

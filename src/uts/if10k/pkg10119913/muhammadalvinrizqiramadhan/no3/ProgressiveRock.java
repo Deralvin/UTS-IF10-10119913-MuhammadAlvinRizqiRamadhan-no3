@@ -7,12 +7,12 @@ package uts.if10k.pkg10119913.muhammadalvinrizqiramadhan.no3;
 
 /**
  *
- 
+ * @author 
+
+ * 
  */
 
-public class BlackMetal extends Metal{
+public interface ProgressiveRock {
     
-    public void genreBlackMetal(String artistName){
-        System.out.println(artistName + " adalah musisi BlackMetal");
-    }
+    public void genreProgressiveRock(String artistName);
 }

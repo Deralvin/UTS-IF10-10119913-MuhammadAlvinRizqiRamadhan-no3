@@ -5,14 +5,17 @@
  */
 package uts.if10k.pkg10119913.muhammadalvinrizqiramadhan.no3;
 
+import uts.if10k.pkg10119913.muhammadalvinrizqiramadhan.no3.Country;
+
 /**
  *
- 
+ * @author 
+ * 
  */
 
-public class BlackMetal extends Metal{
+public class Rockability extends Country{
     
-    public void genreBlackMetal(String artistName){
-        System.out.println(artistName + " adalah musisi BlackMetal");
+    public void genreRockability(String artistName){
+        System.out.println(artistName + " adalah musisi Rockability");
     }
 }

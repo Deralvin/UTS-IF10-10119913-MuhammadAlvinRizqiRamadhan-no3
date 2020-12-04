@@ -7,8 +7,13 @@ package uts.if10k.pkg10119913.muhammadalvinrizqiramadhan.no3;
 
 /**
  *
- * @author Lenovo
+ * @author 
+
  */
-public class HardCore {
+
+public class Hardcore extends Metal{
     
+    public void genreHardcore(String artistName){
+        System.out.println(artistName + " adalah musisi NewSkul Hardcore");
+    }
 }

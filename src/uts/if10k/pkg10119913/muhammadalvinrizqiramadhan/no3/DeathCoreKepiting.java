@@ -7,12 +7,12 @@ package uts.if10k.pkg10119913.muhammadalvinrizqiramadhan.no3;
 
 /**
  *
- 
+
  */
 
-public class BlackMetal extends Metal{
+public class DeathCoreKepiting extends Metal{
     
-    public void genreBlackMetal(String artistName){
-        System.out.println(artistName + " adalah musisi BlackMetal");
+    public void genreDeathCoreKepiting(String artistName){
+        System.out.println(artistName + " adalah musisi DeathCoreKepiting");
     }
 }

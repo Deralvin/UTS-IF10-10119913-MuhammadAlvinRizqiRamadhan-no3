@@ -7,7 +7,24 @@ package uts.if10k.pkg10119913.muhammadalvinrizqiramadhan.no3;
 
 /**
  *
- * @author Lenovo
+ *
  */
+
 public class Metal {
+    
+    public void genreMetal(String artistName){
+        System.out.println(artistName + " adalah musisi Metal");
+    }
+    
+    public void genreHeavyMetal(String artistName){
+        System.out.println(artistName + " adalah musisi HeavyMetal");
+    }
+    
+    public void genrePunk(String artistName){
+        System.out.println(artistName + " adalah musisi Punk");
+    }
+    
+    public void genreGrunge(String artistName){
+        System.out.println(artistName + " adalah musisi Grunge");
+    }
 }

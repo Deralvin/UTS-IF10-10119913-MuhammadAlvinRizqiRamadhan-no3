@@ -7,12 +7,13 @@ package uts.if10k.pkg10119913.muhammadalvinrizqiramadhan.no3;
 
 /**
  *
- 
+ * @author 
+ * 
  */
 
-public class BlackMetal extends Metal{
+public class Grindcore extends Metal{
     
-    public void genreBlackMetal(String artistName){
-        System.out.println(artistName + " adalah musisi BlackMetal");
+    public void genreGrindcore(String artistName){
+        System.out.println(artistName + " adalah musisi Grindcore");
     }
 }

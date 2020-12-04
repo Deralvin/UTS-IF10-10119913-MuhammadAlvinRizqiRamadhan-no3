@@ -7,8 +7,12 @@ package uts.if10k.pkg10119913.muhammadalvinrizqiramadhan.no3;
 
 /**
  *
- * @author Lenovo
+ * @author 
+
+ * 
  */
+
 public interface Punk {
-    void genrePunk(String artisName);
+    
+    public void genrePunk(String artistName);
 }
